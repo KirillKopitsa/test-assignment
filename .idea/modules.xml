@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/front-end-challenge.iml" filepath="$PROJECT_DIR$/.idea/front-end-challenge.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/react-code-challenge-v3/.idea/react-code-challenge-v3.iml" filepath="$USER_HOME$/Downloads/react-code-challenge-v3/.idea/react-code-challenge-v3.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/redux/.idea/redux.iml" filepath="$USER_HOME$/Downloads/redux/.idea/redux.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../testapp/.idea/testapp.iml" filepath="$PROJECT_DIR$/../../testapp/.idea/testapp.iml" />
+    </modules>
+  </component>
+</project>
